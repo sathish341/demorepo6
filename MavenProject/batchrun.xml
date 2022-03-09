@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationSuite">
+  <test thread-count="5" name="AutomationTest">
+  <parameter name="browser" value="firefox"></parameter>
+    <classes>
+      <class name="com.selenium.MavenProject.NewTest"/>
+      <class name="com.selenium.MavenProject.LinksTesting"/>
+      <class name="com.selenium.MavenProject.RadioButton1"/>
+      <class name="com.selenium.MavenProject.TNG__002"/>
+      <class name="com.selenium.MavenProject.TNG__001"/>
+      <class name="com.selenium.MavenProject.CheckBox1"/>
+    </classes>
+  </test> <!-- AutomationTest -->
+</suite> <!-- AutomationSuite -->

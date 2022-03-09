@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52024" started-at="2022-03-09T11:32:07Z" finished-at="2022-03-09T11:32:59Z">
+    <groups>
+      <group name="regression">
+        <method signature="TNG__002.TNG__002Test()[pri:0, instance:com.selenium.MavenProject.TNG__002@3b2da18f]" name="TNG__002Test" class="com.selenium.MavenProject.TNG__002"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TNG__002.TNG__002Test()[pri:0, instance:com.selenium.MavenProject.TNG__002@3b2da18f]" name="TNG__002Test" class="com.selenium.MavenProject.TNG__002"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test" duration-ms="52024" started-at="2022-03-09T11:32:07Z" finished-at="2022-03-09T11:32:59Z">
+      <class name="com.selenium.MavenProject.TNG__002">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.selenium.MavenProject.TNG__002@3b2da18f]" name="beforeMethod" is-config="true" duration-ms="18198" started-at="2022-03-09T11:32:07Z" finished-at="2022-03-09T11:32:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TNG__002Test()[pri:0, instance:com.selenium.MavenProject.TNG__002@3b2da18f]" name="TNG__002Test" duration-ms="26204" started-at="2022-03-09T11:32:26Z" finished-at="2022-03-09T11:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TNG__002Test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.MavenProject.TNG__002@3b2da18f]" name="afterMethod" is-config="true" duration-ms="7595" started-at="2022-03-09T11:32:52Z" finished-at="2022-03-09T11:32:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.MavenProject.TNG__002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

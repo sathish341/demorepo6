@@ -1,0 +1,5 @@
+2022-02-20 23:09:15 INFO Retry:47-Retrying testTNG__002Testwith statusFAILUREfor the1time(s).
+2022-02-20 23:10:15 INFO Retry:47-Retrying testTNG__002Testwith statusFAILUREfor the1time(s).
+2022-02-20 23:18:53 INFO Retry:49-Retrying testTNG__002Testwith statusFAILUREfor the1time(s).
+2022-02-20 23:18:59 INFO Retry:49-Retrying testTNG__002Testwith statusFAILUREfor the2time(s).
+2022-02-20 23:19:04 INFO Retry:49-Retrying testTNG__002Testwith statusFAILUREfor the3time(s).
